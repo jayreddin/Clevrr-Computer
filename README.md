@@ -1,6 +1,6 @@
 # Clevrr Computer
 
-Clevrr Computer, inpired by  is an automation agent designed to perform precise and efficient system actions on behalf of the user using the PyAutoGUI library. It can automate keyboard, mouse, and screen interactions while ensuring safety and accuracy in every task.
+Clevrr Computer, inspired by  is an automation agent designed to perform precise and efficient system actions on behalf of the user using the PyAutoGUI library. It can automate keyboard, mouse, and screen interactions while ensuring safety and accuracy in every task.
 
 ## Features
 
