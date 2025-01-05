@@ -1,7 +1,7 @@
 from langchain.pydantic_v1 import BaseModel, Field
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain.tools import tool
-from utils.constants import MODELS
+from utils.contants import MODELS
 from PIL import Image, ImageDraw, ImageFont
 import pyautogui as pg
 import base64
